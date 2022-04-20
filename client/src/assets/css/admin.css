@@ -1,0 +1,46 @@
+#ec_card{
+    border: none !important;
+}
+
+@media only screen and (min-width: 400px) and (max-width: 780px) { 
+
+    #graph1_ad{
+        padding-bottom: 0px !important;
+    }
+    #graph1div1_ad{
+        padding: 0px !important;
+    }
+    
+    
+}
+
+
+
+@media only screen and (max-width: 400px) {
+    
+    #graph1_ad{
+        padding-bottom: 0px !important;
+    }
+    #graph1div1_ad{
+        padding: 0px !important;
+    }
+    #graph1_ad{
+        padding-bottom: 0px !important;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    
+   
+  }
+@media only screen and (max-width: 767px) {
+    #graph2_admin{
+        margin-bottom: 1.5rem;
+    }
+    
+    #graph2_con_admin{
+        /* padding-bottom: 3 rem !important; */
+        /* margin-bottom: 1.5rem; */
+        margin-bottom: 2rem;
+    } 
+   
+  }

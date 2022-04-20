@@ -1,0 +1,16 @@
+#search_ss{
+    width: 80%;
+    
+    margin: 0 auto;
+}
+
+
+@media (min-width: 0px) and (max-width: 1200px) { 
+    #search_ss{
+        
+        width: 100%;
+        
+        margin: 0 auto;
+    }
+
+ }

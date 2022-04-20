@@ -1,0 +1,118 @@
+@media only screen and (min-width: 820px) and (max-width: 1200px) { 
+
+    #home_desc{
+     margin: 0px 27px;
+     padding-top: 49px;
+    }
+    .title-desc {
+     width: 98% !important;
+ }
+ .timeline_btn{
+
+    margin-top: 2%;
+ }
+
+ 
+ 
+    }
+
+
+@media only screen and (min-width: 0px) and (max-width: 820px) { 
+
+  .timelinesection{
+    padding: 60px 3px !important;
+  }
+    .home_page_wrapper{
+        margin-left: 10% !important;
+    }
+    #home_desc{
+     margin: 0px 27px;
+     padding-top: 49px;
+    }
+    .title-desc {
+     width: 98% !important;
+     /* font-size: 31px !important; */
+ }
+
+ .home_graph_div{
+     display: block !important;
+ }
+ 
+ .home_graph{
+     width: 100% !important;
+     margin-bottom: 2rem;
+ }
+
+
+ 
+
+.title-desc > p {
+    font-size: 29px !important;
+    margin: 1rem 0;
+}
+
+
+ .mc_timeline {
+     width: 110px;
+     padding-right: 30px;
+     margin-right: 30px;
+          border-right: 0px solid #030303 !important; 
+     border-bottom: 2px solid #030303 !important;
+     padding: 14px;
+     padding-left: 2px;
+ }
+ .timeline_date{
+     display:flex;
+ }
+
+
+ .timeline_month{
+    margin-left: 11px !important;
+    padding-top: 4% !important;
+ }
+ #timelineh3{
+    padding: 15px;
+    padding-left: 2px;
+    padding-bottom: 0px;
+ }
+ .timeline_job{
+     
+    padding: 1% !important;
+    padding-left: 1px !important;
+    margin-bottom: 5px !important;
+
+ }
+
+ .vertical_header_h3{
+    padding-bottom: 40%;
+ }
+ 
+ 
+    }
+
+    @media screen and (max-width: 500px) {
+            
+
+.vertical-header {
+    /* width: 6%; */
+    display: none;
+    
+}
+
+.title-desc > p {
+    font-size: 23px !important;
+    
+}
+
+
+.home_page_wrapper{
+    margin-left: 0% !important;
+}
+
+
+#home_desc {
+    margin: 0px 9px !important;
+    
+
+      }
+    }

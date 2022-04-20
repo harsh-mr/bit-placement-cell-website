@@ -1,0 +1,23 @@
+@media only screen and (max-width: 980px) {
+    
+    #upimage{
+        width: 36% !important;
+    }
+    #up_profile{
+        font-size: 1.4rem;
+    }
+
+  }
+@media only screen and (max-width: 400px) {
+    
+    #upimage{
+        width: 36% !important;
+    }
+    #up_profile{
+        font-size: 1rem;
+    }
+
+  }
+    #upimage{
+    width: 70%;
+    }
